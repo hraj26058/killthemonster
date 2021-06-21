@@ -1,7 +1,7 @@
 class Monster{
     constructor(x, y, width, height) {
         var options = {
-            isStatic:true,
+            isStatic:false,
             restitution:0.5,
             friction:1.0
         }
